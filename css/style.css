@@ -34,7 +34,7 @@
     background-size: cover;
     position: relative;
     background-position: center;
-    padding: 91px 65px 77px;
+    padding: 88px 105px 77px;
 }
 .hero-title {
     color: #112543;
@@ -47,7 +47,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 81px;
+    gap: 73px;
     margin-bottom: 26px;
 }
 .format {
@@ -67,8 +67,8 @@
     background-color: #112543;
     width: 1px;
     height: 32px;
-    right: -45px;
-    top: 5px;
+    right: -35px;
+    top: 0px;
 }
 .hero-text {
     font-size: 22px;
@@ -91,10 +91,11 @@
 .timer-wrapper {
     position: absolute;
     top: 300px;
-    right: 70px;
+    right: 130px;
     background-color: #F44B4B;
     border-radius: 30px;
     padding: 24px 16px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
 }
 .timer-title {
     font-size: 20px;
@@ -157,11 +158,11 @@
     border: none;
 }
 .tags {
-    padding: 10px 40px;
+    padding: 17px 100px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 113px;
+    gap: 22px;
     margin-bottom: 80px;
 }
 .tag {
